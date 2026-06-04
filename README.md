@@ -8,7 +8,7 @@ A framework foi concebida para automatizar e padronizar o processo de recolha, p
 
 ---
 
-## Estruturavde Scripts
+## Estrutura de Scripts
 
 O projeto divide-se em três fases de estudo de caso, cada uma focada num cenário tecnológico e arquitetura IoT distintos:
 
